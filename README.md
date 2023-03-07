@@ -1,4 +1,4 @@
-# Java-Window-Application
+# JAVA-Window-Application
 University End Year Project on JAVA
 
 Purpose
